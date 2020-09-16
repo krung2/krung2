@@ -2,7 +2,7 @@
 
 ## Hi there, I'm junior Back-end Developer krung2 👋
 
-[![Facebook ](https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=appveyor=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010144092898)](https://www.facebook.com/profile.php?id=100010144092898)
+[![Facebook ](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010144092898?)](https://www.facebook.com/profile.php?id=100010144092898)
 
 <br/>
 
