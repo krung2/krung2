@@ -1,6 +1,6 @@
 ### Hi there, I'm junior Back-end Developer krung2 👋
 
-[![krung2's github stats](https://github-readme-stats.vercel.app/api?jungbin0722=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![krung2's github stats](https://github-readme-stats.vercel.app/api?username=jungbin0722)](https://github.com/jungbin0722)
 
 
 <!--
