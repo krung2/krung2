@@ -2,7 +2,7 @@
 
 <div align = center>
 
-[![krung2's github stats](https://github-readme-stats.vercel.app/api?username=jungbin0722&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/jungbin0722)
+[![krung2's github stats](https://github-readme-stats.vercel.app/api?username=krung2&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/jungbin0722)
 
 </div>
 
