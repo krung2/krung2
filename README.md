@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm junior Back-end Developer krung2 👋
+
+
 
 <!--
 **jungbin0722/jungbin0722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
