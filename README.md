@@ -2,12 +2,13 @@
 
 ## Hi there, I'm junior Back-end Developer krung2 👋
 
-[![Facebook ](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010322945153)](https://www.facebook.com/profile.php?id=100010144092898)
+[![Facebook ](https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=appveyor=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010144092898)](https://www.facebook.com/profile.php?id=100010144092898)
 
 <br/>
 
 ![krung2's github stats](https://github-readme-stats.vercel.app/api?username=krung2&count_private=true&show_icons=true&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krung2)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
