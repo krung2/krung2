@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-# - 🌱 I’m currently learning ...
+<h2>- 🌱 I’m currently learning ... </h2>
   - React(javaScript) (typeScript)
   - NodeJS
   - express
