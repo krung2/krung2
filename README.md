@@ -2,8 +2,9 @@
 
 ## Hi there, I'm junior Back-end Developer krung2 👋
 
-[![](https://img.shields.io/badge/-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010144092898?)](https://www.facebook.com/profile.php?id=100010144092898)
-[![instagram ](https://img.shields.io/badge/-e95950?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joongbin4337?)](https://www.instagram.com/joongbin4337/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010144092898)](https://www.facebook.com/profile.php?id=100010144092898)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joongbin4337?)](https://www.instagram.com/joongbin4337)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungbin4337@gmail.com)](mailto:jungbin4337@gmail.com) 
 <!--
 [![discord ](https://img.shields.io/badge/-7289da?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/?)](https://discordapp.com/users//)
 -->
@@ -28,7 +29,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -37,3 +37,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+- 🌱 I’m currently learning ...
+  - React(javaScript) (typeScript)
+  - NodeJS
+  - express
+  - typeORM
+  - Sequelize
