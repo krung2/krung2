@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-- 🌱 I’m currently learning ...
+# - 🌱 I’m currently learning ...
   - React(javaScript) (typeScript)
   - NodeJS
   - express
