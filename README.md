@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   - MobX
   - NodeJS
   - Express
+  - NestJS
   - TypeORM
   - Sequelize
   - Spring
