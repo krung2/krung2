@@ -64,6 +64,6 @@
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=krung2&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=151515&hide_border=true&locale=kr" alt="krung2" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=krung2&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=151515&locale=kr" alt="krung2" /> <br />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krung2&theme=dark&hide_border=true" alt="krung2" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krung2&theme=dark" alt="krung2" />
