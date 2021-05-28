@@ -1,35 +1,4 @@
 
-# Hi~ Im Joong Bin
-
-<div align = center>
-
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010144092898)](https://www.facebook.com/profile.php?id=100010144092898)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joongbin4337?)](https://www.instagram.com/joongbin4337)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungbin4337@gmail.com)](mailto:jungbin4337@gmail.com) 
-[![discord](https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/?)](https://discordapp.com/users//)
-
-<br/>
-
-![krung2's github stats](https://github-readme-stats.vercel.app/api?username=krung2&count_private=true&show_icons=true&theme=black)
-
-
-</div>
-
-
-# 🌱 I’m currently learning ... 
-  - React(javaScript) (typeScript)
-  - MobX
-  - NodeJS
-  - Express
-  - NestJS
-  - TypeORM
-  - Sequelize
-  - Spring
-  - Django
-<<<<<<< HEAD
-
-
-
 <h1 align="center">Hi 👋, I'm Joong Bin Shin</h1>
 <h3 align="center">I want to be a fullstack developer</h3>
 
@@ -49,5 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krung2&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=151515&hide_border=true&locale=kr" alt="krung2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krung2&theme=dark" alt="krung2" /></p>
-=======
->>>>>>> d368cc5d7c5bae92b054b2845beb46a0fd8422fc
