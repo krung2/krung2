@@ -6,7 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krung2" alt="krung2" /></a> </p>
 
-## Connect With me :
+<h2> Connect With me : <h2>
+
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010144092898)](https://www.facebook.com/profile.php?id=100010144092898)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joongbin4337?)](https://www.instagram.com/joongbin4337)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungbin4337@gmail.com)](mailto:jungbin4337@gmail.com) 
