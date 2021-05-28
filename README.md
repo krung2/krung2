@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Joong Bin Shin</h1>
 <h3 align="center">I want to be a greate developer</h3>
 
-<center >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krung2&label=Visitors&color=575757&style=flat-square" alt="krung2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krung2" alt="krung2" /></a> </p>
+
 
 ### Connect With me :
 
