@@ -21,10 +21,12 @@
   - MobX
   - NodeJS
   - Express
+  - NestJS
   - TypeORM
   - Sequelize
   - Spring
   - Django
+<<<<<<< HEAD
 
 
 
@@ -47,3 +49,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krung2&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=151515&hide_border=true&locale=kr" alt="krung2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krung2&theme=dark" alt="krung2" /></p>
+=======
+>>>>>>> d368cc5d7c5bae92b054b2845beb46a0fd8422fc
