@@ -2,18 +2,18 @@
 <h1 align="center">Hi 👋, I'm Joong Bin Shin</h1>
 <h3 align="center">I want to be a greate developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krung2&label=Visitors&color=575757&style=flat-square" alt="krung2" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=krung2&label=Visitors&color=575757&style=flat-square" alt="krung2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krung2" alt="krung2" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krung2" alt="krung2" /></a> </p>
 
+<h3 align="center">Connect With me</h3>
 
-### Connect With me :
-
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010144092898)](https://www.facebook.com/profile.php?id=100010144092898)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joongbin4337?)](https://www.instagram.com/joongbin4337)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungbin4337@gmail.com)](mailto:jungbin4337@gmail.com) 
-[![discord](https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/?)](https://discordapp.com/users//)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010144092898" href="https://www.facebook.com/profile.php?id=100010144092898" alt="facebook" />
+  <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joongbin4337?" href="https://www.instagram.com/joongbin4337" alt="instagram" />
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jungbin4337@gmail.com" href="mailto:jungbin4337@gmail.com" alt="gmail" />
+    <img src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/?" href="https://discordapp.com/users//" alt="discord" />
+</p>
 
 ### Can Do
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=krung2&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=151515&locale=en" alt="krung2" />
@@ -50,3 +50,4 @@
 <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  </p>
