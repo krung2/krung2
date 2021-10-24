@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krung2&label=Visitors&color=575757&style=flat-square" alt="krung2" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krung2&row=1" alt="krung2" /></a> </p>
-
 <h3 align="center">Connect With me</h3>
 
 <p align="center">
